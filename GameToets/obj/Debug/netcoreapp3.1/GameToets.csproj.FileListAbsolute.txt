@@ -1,0 +1,13 @@
+C:\Users\proga\source\repos\GameToets\GameToets\bin\Debug\netcoreapp3.1\GameToets.exe
+C:\Users\proga\source\repos\GameToets\GameToets\bin\Debug\netcoreapp3.1\GameToets.deps.json
+C:\Users\proga\source\repos\GameToets\GameToets\bin\Debug\netcoreapp3.1\GameToets.runtimeconfig.json
+C:\Users\proga\source\repos\GameToets\GameToets\bin\Debug\netcoreapp3.1\GameToets.runtimeconfig.dev.json
+C:\Users\proga\source\repos\GameToets\GameToets\bin\Debug\netcoreapp3.1\GameToets.dll
+C:\Users\proga\source\repos\GameToets\GameToets\bin\Debug\netcoreapp3.1\GameToets.pdb
+C:\Users\proga\source\repos\GameToets\GameToets\obj\Debug\netcoreapp3.1\GameToets.csprojAssemblyReference.cache
+C:\Users\proga\source\repos\GameToets\GameToets\obj\Debug\netcoreapp3.1\GameToets.AssemblyInfoInputs.cache
+C:\Users\proga\source\repos\GameToets\GameToets\obj\Debug\netcoreapp3.1\GameToets.AssemblyInfo.cs
+C:\Users\proga\source\repos\GameToets\GameToets\obj\Debug\netcoreapp3.1\GameToets.csproj.CoreCompileInputs.cache
+C:\Users\proga\source\repos\GameToets\GameToets\obj\Debug\netcoreapp3.1\GameToets.dll
+C:\Users\proga\source\repos\GameToets\GameToets\obj\Debug\netcoreapp3.1\GameToets.pdb
+C:\Users\proga\source\repos\GameToets\GameToets\obj\Debug\netcoreapp3.1\GameToets.genruntimeconfig.cache
